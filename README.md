@@ -39,6 +39,7 @@
   <img src="https://keras.io/img/logo.png" height="30" alt="Keras"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="30" alt="Scikit-learn"/>
   <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" height="30" alt="OpenCV"/>
+  <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" height="30" alt="Git"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6&height=120&section=footer"/>
