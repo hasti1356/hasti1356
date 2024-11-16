@@ -34,7 +34,7 @@
 
 <!-- Footer with AI/ML Tools -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 30px;">
-  <img src="https://www.tensorflow.org/images/tf_logo_social.png" height="40" alt="TensorFlow"/>
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" height="30" alt="TensorFlow"/>
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="30" alt="PyTorch"/>
   <img src="https://keras.io/img/logo.png" height="30" alt="Keras"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="30" alt="Scikit-learn"/>
