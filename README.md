@@ -2,9 +2,9 @@
   
 <!-- Custom Title -->
 <h1>
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2MURBRkIiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5Ii8+PHBhdGggZD0iTTguNSA4LjVoN3Y3aC03eiIvPjwvc3ZnPg==" width="32" height="32"/>
+  <img src="https://cdn.pixabay.com/photo/2016/12/13/21/20/alien-1905155_1280.png" width="32" height="32"/>
   <span style="color: #61DAFB">Hasti</span><span style="color: #C9D1D9">'s</span> <span style="color: #58A6FF">AI Lab</span>
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM1OEE2RkYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMkM2LjUgMiAyIDYuNSAyIDEyczQuNSAxMCAxMCAxMGM1LjUgMCAxMC00LjUgMTAtMTBTMTcuNSAyIDEyIDJ6Ii8+PHBhdGggZD0iTTEyIDZhNiA2IDAgMCAwLTYgNmg2di02eiIvPjwvc3ZnPg==" width="32" height="32"/>
+  <img src="https://cdn.pixabay.com/photo/2024/07/17/12/07/ai-generated-8901385_960_720.jpg" width="32" height="32"/>
 </h1>
 
 <!-- Profile Views Counter -->
