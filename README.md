@@ -4,7 +4,7 @@
 <h1>
   <img src="https://cdn.pixabay.com/photo/2016/12/13/21/20/alien-1905155_1280.png" width="32" height="32"/>
   <span style="color: #61DAFB">Hasti</span><span style="color: #C9D1D9">'s</span> <span style="color: #58A6FF">AI Lab</span>
-  <img src="https://cdn.pixabay.com/photo/2020/07/12/18/42/robot-5398394_1280.png" width="32" hight="32"/>
+  <img src="https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_960_720.png" width="32" hight="32"/>
 </h1>
 
 <!-- Profile Views Counter -->
