@@ -24,11 +24,6 @@
 <!-- Trophy Collection Top -->
 <img width="49%" src="https://github-profile-trophy.vercel.app/?username=hasti1356&theme=tokyonight&no-frame=true&column=3&row=1&margin-w=8&margin-h=8"/>
 
-
-<!-- Trophy Collection Bottom -->
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=hasti1356&theme=tokyonight&no-frame=true&column=2&row=1&margin-w=8&margin-h=8"/>
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=hasti1356&theme=tokyonight&no-frame=true&column=2&row=1&margin-w=8&margin-h=8"/>
-
 <!-- Activity Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hasti1356&bg_color=0D1117&color=C9D1D9&line=61DAFB&point=FFFFFF&area=true&hide_border=true"/>
 
@@ -41,7 +36,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 30px;">
   <img src="https://www.tensorflow.org/images/tf_logo_social.png" height="30" alt="TensorFlow"/>
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="30" alt="PyTorch"/>
-  <img src="https://keras.io/img/logo.png" height="20" alt="Keras"/>
+  <img src="https://keras.io/img/logo.png" height="30" alt="Keras"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="30" alt="Scikit-learn"/>
   <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" height="30" alt="OpenCV"/>
 </div>
