@@ -123,14 +123,48 @@
 
 <div align="center">
 
+<div align="center">
+
 ```mermaid
-graph TD
-    A[Data Collection] --> B[Preprocessing & Feature Engineering]
-    B --> C[Model Development & Training]
-    C --> D[Validation & Performance Evaluation]
-    D --> E[Monitoring & Refinement]
-    E --> F[Deployment & Integration]
-    F --> G[Clinical Application]
+flowchart TD
+    classDef dataPhase fill:#3a7bd5,stroke:#0D1117,color:white,stroke-width:2px
+    classDef modelPhase fill:#00d2ff,stroke:#0D1117,color:white,stroke-width:2px
+    classDef applicationPhase fill:#8e44ad,stroke:#0D1117,color:white,stroke-width:2px
+    
+    A[fa:fa-database Healthcare Data Collection] --> B[fa:fa-filter Feature Engineering & Preprocessing]
+    B --> C[fa:fa-brain AI Model Development & Training]
+    C --> D[fa:fa-chart-line Performance Evaluation & Validation]
+    D --> E[fa:fa-sync-alt Model Optimization & Refinement]
+    E --> F[fa:fa-cogs Clinical Integration & Deployment]
+    F --> G[fa:fa-heartbeat Pregnancy Prediction Application]
+    
+    subgraph Data Processing Phase
+        A
+        B
+    end
+    
+    subgraph AI Development Phase
+        C
+        D
+        E
+    end
+    
+    subgraph Clinical Application Phase
+        F
+        G
+    end
+    
+    A:::dataPhase
+    B:::dataPhase
+    C:::modelPhase
+    D:::modelPhase
+    E:::modelPhase
+    F:::applicationPhase
+    G:::applicationPhase
+    
+    style Data Processing Phase fill:#0D1117,stroke:#3a7bd5,stroke-width:2px,color:#3a7bd5
+    style AI Development Phase fill:#0D1117,stroke:#00d2ff,stroke-width:2px,color:#00d2ff
+    style Clinical Application Phase fill:#0D1117,stroke:#8e44ad,stroke-width:2px,color:#8e44ad
 ```
 
 </div>
