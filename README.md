@@ -2,9 +2,7 @@
   
 <!-- Custom Title with Healthcare AI Theme -->
 <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="38" height="38" alt="Robot Emoji"/>
-  <span><strong>Healthcare AI Research Lab</strong></span>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="38" height="38" alt="Microscope Emoji"/>
+  🤖 <span><strong>Healthcare AI Research Lab</strong></span> 🔬
 </h1>
 
 <!-- Animated Tagline -->
