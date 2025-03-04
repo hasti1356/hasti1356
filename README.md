@@ -1,11 +1,7 @@
 <div align="center">
   
 <!-- Custom Title with Healthcare AI Theme -->
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="38" height="38" alt="Robot Emoji"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3A7BD5&center=true&vCenter=true&random=false&width=435&lines=Healthcare+AI+Research+Lab" alt="Healthcare AI Research Lab" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="38" height="38" alt="Microscope Emoji"/>
-</h1>
+
 
 <!-- Animated Tagline -->
 <p align="center">
