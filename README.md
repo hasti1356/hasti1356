@@ -129,28 +129,21 @@ flowchart TD
     classDef modelPhase fill:#00d2ff,stroke:#0D1117,color:white,stroke-width:2px
     classDef applicationPhase fill:#8e44ad,stroke:#0D1117,color:white,stroke-width:2px
     
-    A[fa:fa-database Healthcare Data Collection] --> B[fa:fa-filter Feature Engineering & Preprocessing]
-    B --> C[fa:fa-brain AI Model Development & Training]
-    C --> D[fa:fa-chart-line Performance Evaluation & Validation]
-    D --> E[fa:fa-sync-alt Model Optimization & Refinement]
-    E --> F[fa:fa-cogs Clinical Integration & Deployment]
-    F --> G[fa:fa-heartbeat Pregnancy Prediction Application]
-    
-    subgraph Data Processing Phase
-        A
-        B
+    subgraph "Data Processing"
+    A[Healthcare Data Collection] --> B[Feature Engineering & Preprocessing]
     end
     
-    subgraph AI Development Phase
-        C
-        D
-        E
+    subgraph "AI Development"
+    C[AI Model Development] --> D[Performance Evaluation]
+    D --> E[Model Optimization]
     end
     
-    subgraph Clinical Application Phase
-        F
-        G
+    subgraph "Clinical Application"
+    F[Clinical Integration] --> G[Pregnancy Prediction]
     end
+    
+    B --> C
+    E --> F
     
     A:::dataPhase
     B:::dataPhase
@@ -160,9 +153,9 @@ flowchart TD
     F:::applicationPhase
     G:::applicationPhase
     
-    style Data Processing Phase fill:#0D1117,stroke:#3a7bd5,stroke-width:2px,color:#3a7bd5
-    style AI Development Phase fill:#0D1117,stroke:#00d2ff,stroke-width:2px,color:#00d2ff
-    style Clinical Application Phase fill:#0D1117,stroke:#8e44ad,stroke-width:2px,color:#8e44ad
+    style Data Processing fill:#0D1117,stroke:#3a7bd5,stroke-width:2px,color:#3a7bd5
+    style AI Development fill:#0D1117,stroke:#00d2ff,stroke-width:2px,color:#00d2ff
+    style Clinical Application fill:#0D1117,stroke:#8e44ad,stroke-width:2px,color:#8e44ad
 ```
 
 </div>
