@@ -2,9 +2,9 @@
   
 <!-- Custom Title with Healthcare AI Theme -->
 <h1>
-  <img src="https://cdn.pixabay.com/photo/2023/06/12/01/22/ai-8058211_960_720.png" width="38" height="38"/>
-  <span style="background: linear-gradient(90deg, #3a7bd5, #00d2ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Healthcare AI Research Lab</span>
-  <img src="https://cdn.pixabay.com/photo/2023/08/05/13/02/medical-8171305_960_720.png" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="38" height="38" alt="Robot Emoji"/>
+  <span><strong>Healthcare AI Research Lab</strong></span>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="38" height="38" alt="Microscope Emoji"/>
 </h1>
 
 <!-- Animated Tagline -->
