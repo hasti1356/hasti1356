@@ -123,8 +123,6 @@
 
 <div align="center">
 
-<div align="center">
-
 ```mermaid
 flowchart TD
     classDef dataPhase fill:#3a7bd5,stroke:#0D1117,color:white,stroke-width:2px
