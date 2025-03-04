@@ -121,8 +121,20 @@
 <!-- Research Methodology Workflow - Custom Addition -->
 <h2>🧪 AI Healthcare Research Methodology</h2>
 
-<div style="text-align: center;">
-  <img src="https://mermaid.ink/img/pako:eNptkU9LAzEQxb_KMKeFXgqbk6Aso-BBD4IXD2WSbMLW7iZhk1VK6XdvdttVEXIJ8_5k3jw21li7BCE2kn1LB3IQbQrE42OIvJVQXK8BZ_-Cd6MZ_jmZZmzK8HYH2CmGntSBsxD4YFNQ9dzbX2FFPS1QUnFPFcWzl5RLArkRc9W2kQ_EL9kFJUqwIGh0JU6YwPXpgBfEXbqsK-d9Cg_AflBhNr_fnhJYeDMgxQzGaF1QcuL1ObCLCSwqoEIJerqKU-hN1xqFzIKTJkavpGg7xRR3t_xEgO1VbZ9WefRCDEoewUgVw3WelVu10bixFzh_NpRqSdZR_5VQ6a9qLgTnmHiHpuMl_wBfaZKI" alt="Research Methodology" width="100%"/>
+<div align="center">
+  <pre>
+  ┌─────────────┐     ┌─────────────────┐     ┌──────────────────┐     ┌───────────────┐
+  │ Data        │     │ Preprocessing & │     │ Model Development │     │ Validation &  │
+  │ Collection  │────▶│ Feature         │────▶│ & Training        │────▶│ Performance   │
+  │             │     │ Engineering     │     │                   │     │ Evaluation    │
+  └─────────────┘     └─────────────────┘     └──────────────────┘     └───────────────┘
+                                                                               │
+  ┌─────────────┐     ┌─────────────────┐     ┌──────────────────┐            │
+  │ Clinical    │     │ Deployment &    │     │ Monitoring &     │◀───────────┘
+  │ Application │◀────│ Integration     │◀────│ Refinement       │
+  │             │     │                 │     │                   │
+  └─────────────┘     └─────────────────┘     └──────────────────┘
+  </pre>
 </div>
 
 <!-- Activity Graph -->
