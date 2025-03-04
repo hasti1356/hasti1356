@@ -125,26 +125,31 @@
 
 ```mermaid
 flowchart TD
+    %% Styling classes
     classDef dataPhase fill:#3a7bd5,stroke:#0D1117,color:white,stroke-width:2px
     classDef modelPhase fill:#00d2ff,stroke:#0D1117,color:white,stroke-width:2px
     classDef applicationPhase fill:#8e44ad,stroke:#0D1117,color:white,stroke-width:2px
+    classDef phaseTitle font-size:16px,font-weight:bold
     
-    subgraph "Data Processing"
-    A[Healthcare Data Collection] --> B[Feature Engineering & Preprocessing]
-    end
+    %% Phase titles
+    DataTitle["DATA PROCESSING"]:::phaseTitle
+    AITitle["AI DEVELOPMENT"]:::phaseTitle
+    ClinicalTitle["CLINICAL APPLICATION"]:::phaseTitle
     
-    subgraph "AI Development"
-    C[AI Model Development] --> D[Performance Evaluation]
+    %% Process flow
+    A[Healthcare Data Collection] --> B[Feature Engineering]
+    B --> C[AI Model Development]
+    C --> D[Performance Evaluation]
     D --> E[Model Optimization]
-    end
+    E --> F[Clinical Integration]
+    F --> G[Pregnancy Prediction App]
     
-    subgraph "Clinical Application"
-    F[Clinical Integration] --> G[Pregnancy Prediction]
-    end
+    %% Invisible connections to titles
+    DataTitle -.-> A
+    AITitle -.-> C
+    ClinicalTitle -.-> F
     
-    B --> C
-    E --> F
-    
+    %% Styling nodes by phase
     A:::dataPhase
     B:::dataPhase
     C:::modelPhase
@@ -153,9 +158,8 @@ flowchart TD
     F:::applicationPhase
     G:::applicationPhase
     
-    style Data Processing fill:#0D1117,stroke:#3a7bd5,stroke-width:2px,color:#3a7bd5
-    style AI Development fill:#0D1117,stroke:#00d2ff,stroke-width:2px,color:#00d2ff
-    style Clinical Application fill:#0D1117,stroke:#8e44ad,stroke-width:2px,color:#8e44ad
+    %% Make title connections invisible
+    linkStyle 6,7,8 stroke:none
 ```
 
 </div>
