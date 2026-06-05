@@ -94,4 +94,10 @@ Computer Vision • Deep Learning • Generative AI • Multimodal Learning
 
 ---
 
+<div align="center">
+
 ### Turning research into production-grade intelligence.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+
+</div>
